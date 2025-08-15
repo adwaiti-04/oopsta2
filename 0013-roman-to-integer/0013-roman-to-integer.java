@@ -1,31 +1,28 @@
-import java.util.HashMap;
+import java.util.*;
 
 public class Solution {
-    public int romanToInt(String s) {
-        HashMap<Character, Integer> romanMap = new HashMap<>();
-        romanMap.put('I', 1);
-        romanMap.put('V', 5);
-        romanMap.put('X', 10);
-        romanMap.put('L', 50);
-        romanMap.put('C', 100);
-        romanMap.put('D', 500);
-        romanMap.put('M', 1000);
+    public static int romanToInt(String s) {
+        Map<Character, Integer> map = new HashMap<>();
+        map.put('I', 1);
+        map.put('V', 5);
+        map.put('X', 10);
+        map.put('L', 50);
+        map.put('C', 100);
+        map.put('D', 500);
+        map.put('M', 1000);
 
         int total = 0;
-        int prevValue = 0;
-
-        for (int i = s.length() - 1; i >= 0; i--) {
-            int currValue = romanMap.get(s.charAt(i));
-
-            if (currValue < prevValue) {
-                total -= currValue;
-            } else {
-                total += currValue;
-            }
-
-            prevValue = currValue;
+        for (int i = 0; i < s.length(); i++) {
+            int value = map.get(s.charAt(i));
+            if (i + 1 < s.length() && value < map.get(s.charAt(i + 1))) total -= value;
+            else total += value;
         }
-
         return total;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(romanToInt("III"));      // 3
+        System.out.println(romanToInt("LVIII"));    // 58
+        System.out.println(romanToInt("MCMXCIV"));  // 1994
     }
 }
