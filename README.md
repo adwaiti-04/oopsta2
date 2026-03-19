@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0027-remove-element](https://github.com/adwaiti-04/oopsta2/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/adwaiti-04/oopsta2/tree/main/0035-search-insert-position/) | Easy |
+| [2191-sort-the-jumbled-numbers](https://github.com/adwaiti-04/oopsta2/tree/main/2191-sort-the-jumbled-numbers/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +47,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/adwaiti-04/oopsta2/tree/main/0035-search-insert-position/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2191-sort-the-jumbled-numbers](https://github.com/adwaiti-04/oopsta2/tree/main/2191-sort-the-jumbled-numbers/) | Medium |
 <!---LeetCode Topics End-->
