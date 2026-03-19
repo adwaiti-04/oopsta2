@@ -43,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adwaiti-04/oopsta2/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0147-insertion-sort-list](https://github.com/adwaiti-04/oopsta2/tree/main/0147-insertion-sort-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,5 +51,6 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0147-insertion-sort-list](https://github.com/adwaiti-04/oopsta2/tree/main/0147-insertion-sort-list/) | Medium |
 | [2191-sort-the-jumbled-numbers](https://github.com/adwaiti-04/oopsta2/tree/main/2191-sort-the-jumbled-numbers/) | Medium |
 <!---LeetCode Topics End-->
