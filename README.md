@@ -14,6 +14,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/adwaiti-04/oopsta2/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/adwaiti-04/oopsta2/tree/master/0009-palindrome-number) |
 ## String
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/adwaiti-04/oopsta2/tree/main/0002-add-two-numbers/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adwaiti-04/oopsta2/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0147-insertion-sort-list](https://github.com/adwaiti-04/oopsta2/tree/main/0147-insertion-sort-list/) | Medium |
 ## Binary Search
@@ -53,4 +55,8 @@
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/adwaiti-04/oopsta2/tree/main/0147-insertion-sort-list/) | Medium |
 | [2191-sort-the-jumbled-numbers](https://github.com/adwaiti-04/oopsta2/tree/main/2191-sort-the-jumbled-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/adwaiti-04/oopsta2/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
