@@ -22,6 +22,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/adwaiti-04/oopsta2/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/adwaiti-04/oopsta2/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/adwaiti-04/oopsta2/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/adwaiti-04/oopsta2/tree/main/0022-generate-parentheses/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,4 +71,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adwaiti-04/oopsta2/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/adwaiti-04/oopsta2/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/adwaiti-04/oopsta2/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
