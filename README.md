@@ -17,6 +17,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/adwaiti-04/oopsta2/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/adwaiti-04/oopsta2/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/adwaiti-04/oopsta2/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/adwaiti-04/oopsta2/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/adwaiti-04/oopsta2/tree/main/0069-sqrtx/) | Easy |
