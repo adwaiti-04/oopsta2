@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0027-remove-element](https://github.com/adwaiti-04/oopsta2/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/adwaiti-04/oopsta2/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/adwaiti-04/oopsta2/tree/main/0066-plus-one/) | Easy |
 | [2191-sort-the-jumbled-numbers](https://github.com/adwaiti-04/oopsta2/tree/main/2191-sort-the-jumbled-numbers/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -16,6 +17,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/adwaiti-04/oopsta2/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/adwaiti-04/oopsta2/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/adwaiti-04/oopsta2/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/adwaiti-04/oopsta2/tree/main/0069-sqrtx/) | Easy |
 ## String
 | Problem Name | Difficulty |
