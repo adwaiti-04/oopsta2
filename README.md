@@ -16,6 +16,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/adwaiti-04/oopsta2/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/adwaiti-04/oopsta2/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/adwaiti-04/oopsta2/tree/main/0069-sqrtx/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/adwaiti-04/oopsta2/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/adwaiti-04/oopsta2/tree/main/0069-sqrtx/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
