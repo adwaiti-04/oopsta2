@@ -23,6 +23,7 @@
 | [0014-longest-common-prefix](https://github.com/adwaiti-04/oopsta2/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/adwaiti-04/oopsta2/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/adwaiti-04/oopsta2/tree/main/0022-generate-parentheses/) | Medium |
+| [0058-length-of-last-word](https://github.com/adwaiti-04/oopsta2/tree/main/0058-length-of-last-word/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
