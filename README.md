@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adwaiti-04/oopsta2/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/adwaiti-04/oopsta2/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/adwaiti-04/oopsta2/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/adwaiti-04/oopsta2/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/adwaiti-04/oopsta2/tree/main/0066-plus-one/) | Easy |
@@ -13,6 +14,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adwaiti-04/oopsta2/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/adwaiti-04/oopsta2/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/adwaiti-04/oopsta2/tree/master/0027-remove-element) |
 ## Math
 | Problem Name | Difficulty |
@@ -113,4 +115,8 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/adwaiti-04/oopsta2/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adwaiti-04/oopsta2/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/adwaiti-04/oopsta2/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
