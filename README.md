@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adwaiti-04/oopsta2/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0027-remove-element](https://github.com/adwaiti-04/oopsta2/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/adwaiti-04/oopsta2/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/adwaiti-04/oopsta2/tree/main/0066-plus-one/) | Easy |
@@ -60,6 +61,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adwaiti-04/oopsta2/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/adwaiti-04/oopsta2/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/adwaiti-04/oopsta2/tree/main/0069-sqrtx/) | Easy |
 ## Sorting
@@ -88,4 +90,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/adwaiti-04/oopsta2/tree/main/0022-generate-parentheses/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adwaiti-04/oopsta2/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
