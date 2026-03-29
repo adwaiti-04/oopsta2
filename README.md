@@ -22,6 +22,7 @@
 | [0009-palindrome-number](https://github.com/adwaiti-04/oopsta2/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/adwaiti-04/oopsta2/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/adwaiti-04/oopsta2/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/adwaiti-04/oopsta2/tree/main/0070-climbing-stairs/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adwaiti-04/oopsta2/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/adwaiti-04/oopsta2/tree/main/0022-generate-parentheses/) | Medium |
+| [0070-climbing-stairs](https://github.com/adwaiti-04/oopsta2/tree/main/0070-climbing-stairs/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,4 +96,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adwaiti-04/oopsta2/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/adwaiti-04/oopsta2/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
