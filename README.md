@@ -32,6 +32,7 @@
 | [0005-longest-palindromic-substring](https://github.com/adwaiti-04/oopsta2/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/adwaiti-04/oopsta2/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/adwaiti-04/oopsta2/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0010-regular-expression-matching](https://github.com/adwaiti-04/oopsta2/tree/main/0010-regular-expression-matching/) | Hard |
 | [0014-longest-common-prefix](https://github.com/adwaiti-04/oopsta2/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/adwaiti-04/oopsta2/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/adwaiti-04/oopsta2/tree/main/0022-generate-parentheses/) | Medium |
@@ -84,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/adwaiti-04/oopsta2/tree/main/0002-add-two-numbers/) | Medium |
+| [0010-regular-expression-matching](https://github.com/adwaiti-04/oopsta2/tree/main/0010-regular-expression-matching/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +98,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adwaiti-04/oopsta2/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/adwaiti-04/oopsta2/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/adwaiti-04/oopsta2/tree/main/0022-generate-parentheses/) | Medium |
 | [0070-climbing-stairs](https://github.com/adwaiti-04/oopsta2/tree/main/0070-climbing-stairs/) | Easy |
 ## Backtracking
