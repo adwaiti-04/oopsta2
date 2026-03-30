@@ -17,6 +17,7 @@
 | [0005-longest-palindromic-substring](https://github.com/adwaiti-04/oopsta2/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/adwaiti-04/oopsta2/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/adwaiti-04/oopsta2/tree/main/0015-3sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/adwaiti-04/oopsta2/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0027-remove-element](https://github.com/adwaiti-04/oopsta2/tree/master/0027-remove-element) |
 ## Math
 | Problem Name | Difficulty |
@@ -70,6 +71,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/adwaiti-04/oopsta2/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/adwaiti-04/oopsta2/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adwaiti-04/oopsta2/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0147-insertion-sort-list](https://github.com/adwaiti-04/oopsta2/tree/main/0147-insertion-sort-list/) | Medium |
 ## Binary Search
