@@ -57,6 +57,7 @@
 | [0101-symmetric-tree](https://github.com/adwaiti-04/oopsta2/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adwaiti-04/oopsta2/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adwaiti-04/oopsta2/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/adwaiti-04/oopsta2/tree/main/0112-path-sum/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@
 | [0101-symmetric-tree](https://github.com/adwaiti-04/oopsta2/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adwaiti-04/oopsta2/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adwaiti-04/oopsta2/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/adwaiti-04/oopsta2/tree/main/0112-path-sum/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +75,7 @@
 | [0101-symmetric-tree](https://github.com/adwaiti-04/oopsta2/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adwaiti-04/oopsta2/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adwaiti-04/oopsta2/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/adwaiti-04/oopsta2/tree/main/0112-path-sum/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +136,7 @@
 | [0101-symmetric-tree](https://github.com/adwaiti-04/oopsta2/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adwaiti-04/oopsta2/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adwaiti-04/oopsta2/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/adwaiti-04/oopsta2/tree/main/0112-path-sum/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
