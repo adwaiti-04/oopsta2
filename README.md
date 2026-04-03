@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/adwaiti-04/oopsta2/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/adwaiti-04/oopsta2/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/adwaiti-04/oopsta2/tree/main/0066-plus-one/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/adwaiti-04/oopsta2/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [2191-sort-the-jumbled-numbers](https://github.com/adwaiti-04/oopsta2/tree/main/2191-sort-the-jumbled-numbers/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -116,6 +117,7 @@
 | [0010-regular-expression-matching](https://github.com/adwaiti-04/oopsta2/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/adwaiti-04/oopsta2/tree/main/0022-generate-parentheses/) | Medium |
 | [0070-climbing-stairs](https://github.com/adwaiti-04/oopsta2/tree/main/0070-climbing-stairs/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/adwaiti-04/oopsta2/tree/main/0119-pascals-triangle-ii/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
