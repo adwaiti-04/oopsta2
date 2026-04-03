@@ -20,6 +20,7 @@
 | [0015-3sum](https://github.com/adwaiti-04/oopsta2/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adwaiti-04/oopsta2/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0027-remove-element](https://github.com/adwaiti-04/oopsta2/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/adwaiti-04/oopsta2/tree/main/0125-valid-palindrome/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@
 | [0020-valid-parentheses](https://github.com/adwaiti-04/oopsta2/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/adwaiti-04/oopsta2/tree/main/0022-generate-parentheses/) | Medium |
 | [0058-length-of-last-word](https://github.com/adwaiti-04/oopsta2/tree/main/0058-length-of-last-word/) | Easy |
+| [0125-valid-palindrome](https://github.com/adwaiti-04/oopsta2/tree/main/0125-valid-palindrome/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
