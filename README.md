@@ -30,6 +30,7 @@
 | [0066-plus-one](https://github.com/adwaiti-04/oopsta2/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/adwaiti-04/oopsta2/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/adwaiti-04/oopsta2/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/adwaiti-04/oopsta2/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/adwaiti-04/oopsta2/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/adwaiti-04/oopsta2/tree/main/0010-regular-expression-matching/) | Hard |
+| [0509-fibonacci-number](https://github.com/adwaiti-04/oopsta2/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +122,7 @@
 | [0022-generate-parentheses](https://github.com/adwaiti-04/oopsta2/tree/main/0022-generate-parentheses/) | Medium |
 | [0070-climbing-stairs](https://github.com/adwaiti-04/oopsta2/tree/main/0070-climbing-stairs/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/adwaiti-04/oopsta2/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0509-fibonacci-number](https://github.com/adwaiti-04/oopsta2/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +136,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/adwaiti-04/oopsta2/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/adwaiti-04/oopsta2/tree/main/0509-fibonacci-number/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
