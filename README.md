@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/adwaiti-04/oopsta2/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/adwaiti-04/oopsta2/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/adwaiti-04/oopsta2/tree/main/0066-plus-one/) | Easy |
+| [0079-word-search](https://github.com/adwaiti-04/oopsta2/tree/main/0079-word-search/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/adwaiti-04/oopsta2/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0130-surrounded-regions](https://github.com/adwaiti-04/oopsta2/tree/main/0130-surrounded-regions/) | Medium |
 | [0733-flood-fill](https://github.com/adwaiti-04/oopsta2/tree/main/0733-flood-fill/) | Easy |
@@ -46,6 +47,7 @@
 | [0020-valid-parentheses](https://github.com/adwaiti-04/oopsta2/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/adwaiti-04/oopsta2/tree/main/0022-generate-parentheses/) | Medium |
 | [0058-length-of-last-word](https://github.com/adwaiti-04/oopsta2/tree/main/0058-length-of-last-word/) | Easy |
+| [0079-word-search](https://github.com/adwaiti-04/oopsta2/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/adwaiti-04/oopsta2/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/adwaiti-04/oopsta2/tree/main/0344-reverse-string/) | Easy |
 | [0784-letter-case-permutation](https://github.com/adwaiti-04/oopsta2/tree/main/0784-letter-case-permutation/) | Medium |
@@ -70,6 +72,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/adwaiti-04/oopsta2/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/adwaiti-04/oopsta2/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/adwaiti-04/oopsta2/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/adwaiti-04/oopsta2/tree/main/0101-symmetric-tree/) | Easy |
@@ -134,6 +137,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/adwaiti-04/oopsta2/tree/main/0022-generate-parentheses/) | Medium |
+| [0079-word-search](https://github.com/adwaiti-04/oopsta2/tree/main/0079-word-search/) | Medium |
 | [0784-letter-case-permutation](https://github.com/adwaiti-04/oopsta2/tree/main/0784-letter-case-permutation/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -170,6 +174,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/adwaiti-04/oopsta2/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/adwaiti-04/oopsta2/tree/main/0130-surrounded-regions/) | Medium |
 | [0733-flood-fill](https://github.com/adwaiti-04/oopsta2/tree/main/0733-flood-fill/) | Easy |
 ## Bit Manipulation
