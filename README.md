@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/adwaiti-04/oopsta2/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/adwaiti-04/oopsta2/tree/main/0066-plus-one/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/adwaiti-04/oopsta2/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0130-surrounded-regions](https://github.com/adwaiti-04/oopsta2/tree/main/0130-surrounded-regions/) | Medium |
 | [0733-flood-fill](https://github.com/adwaiti-04/oopsta2/tree/main/0733-flood-fill/) | Easy |
 | [2191-sort-the-jumbled-numbers](https://github.com/adwaiti-04/oopsta2/tree/main/2191-sort-the-jumbled-numbers/) | Medium |
 ## Two Pointers
@@ -75,6 +76,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/adwaiti-04/oopsta2/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adwaiti-04/oopsta2/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/adwaiti-04/oopsta2/tree/main/0112-path-sum/) | Easy |
+| [0130-surrounded-regions](https://github.com/adwaiti-04/oopsta2/tree/main/0130-surrounded-regions/) | Medium |
 | [0733-flood-fill](https://github.com/adwaiti-04/oopsta2/tree/main/0733-flood-fill/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -151,6 +153,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/adwaiti-04/oopsta2/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adwaiti-04/oopsta2/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/adwaiti-04/oopsta2/tree/main/0112-path-sum/) | Easy |
+| [0130-surrounded-regions](https://github.com/adwaiti-04/oopsta2/tree/main/0130-surrounded-regions/) | Medium |
 | [0733-flood-fill](https://github.com/adwaiti-04/oopsta2/tree/main/0733-flood-fill/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -167,9 +170,14 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/adwaiti-04/oopsta2/tree/main/0130-surrounded-regions/) | Medium |
 | [0733-flood-fill](https://github.com/adwaiti-04/oopsta2/tree/main/0733-flood-fill/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0784-letter-case-permutation](https://github.com/adwaiti-04/oopsta2/tree/main/0784-letter-case-permutation/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0130-surrounded-regions](https://github.com/adwaiti-04/oopsta2/tree/main/0130-surrounded-regions/) | Medium |
 <!---LeetCode Topics End-->
