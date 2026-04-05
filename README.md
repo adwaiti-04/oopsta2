@@ -47,6 +47,7 @@
 | [0058-length-of-last-word](https://github.com/adwaiti-04/oopsta2/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/adwaiti-04/oopsta2/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/adwaiti-04/oopsta2/tree/main/0344-reverse-string/) | Easy |
+| [0784-letter-case-permutation](https://github.com/adwaiti-04/oopsta2/tree/main/0784-letter-case-permutation/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +132,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/adwaiti-04/oopsta2/tree/main/0022-generate-parentheses/) | Medium |
+| [0784-letter-case-permutation](https://github.com/adwaiti-04/oopsta2/tree/main/0784-letter-case-permutation/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,4 +168,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/adwaiti-04/oopsta2/tree/main/0733-flood-fill/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0784-letter-case-permutation](https://github.com/adwaiti-04/oopsta2/tree/main/0784-letter-case-permutation/) | Medium |
 <!---LeetCode Topics End-->
