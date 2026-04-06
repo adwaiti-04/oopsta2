@@ -13,6 +13,7 @@
 | [0079-word-search](https://github.com/adwaiti-04/oopsta2/tree/main/0079-word-search/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/adwaiti-04/oopsta2/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0130-surrounded-regions](https://github.com/adwaiti-04/oopsta2/tree/main/0130-surrounded-regions/) | Medium |
+| [0136-single-number](https://github.com/adwaiti-04/oopsta2/tree/main/0136-single-number/) | Easy |
 | [0733-flood-fill](https://github.com/adwaiti-04/oopsta2/tree/main/0733-flood-fill/) | Easy |
 | [2191-sort-the-jumbled-numbers](https://github.com/adwaiti-04/oopsta2/tree/main/2191-sort-the-jumbled-numbers/) | Medium |
 ## Two Pointers
@@ -180,6 +181,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/adwaiti-04/oopsta2/tree/main/0136-single-number/) | Easy |
 | [0784-letter-case-permutation](https://github.com/adwaiti-04/oopsta2/tree/main/0784-letter-case-permutation/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
