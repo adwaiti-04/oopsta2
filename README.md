@@ -32,6 +32,7 @@
 | [0002-add-two-numbers](https://github.com/adwaiti-04/oopsta2/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/adwaiti-04/oopsta2/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/adwaiti-04/oopsta2/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/adwaiti-04/oopsta2/tree/main/0012-integer-to-roman/) | Medium |
 | [0066-plus-one](https://github.com/adwaiti-04/oopsta2/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/adwaiti-04/oopsta2/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/adwaiti-04/oopsta2/tree/main/0070-climbing-stairs/) | Easy |
@@ -44,6 +45,7 @@
 | [0006-zigzag-conversion](https://github.com/adwaiti-04/oopsta2/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/adwaiti-04/oopsta2/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/adwaiti-04/oopsta2/tree/main/0010-regular-expression-matching/) | Hard |
+| [0012-integer-to-roman](https://github.com/adwaiti-04/oopsta2/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/adwaiti-04/oopsta2/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/adwaiti-04/oopsta2/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/adwaiti-04/oopsta2/tree/main/0022-generate-parentheses/) | Medium |
@@ -121,6 +123,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adwaiti-04/oopsta2/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/adwaiti-04/oopsta2/tree/main/0012-integer-to-roman/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
