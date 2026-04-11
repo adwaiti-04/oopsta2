@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/adwaiti-04/oopsta2/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/adwaiti-04/oopsta2/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/adwaiti-04/oopsta2/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/adwaiti-04/oopsta2/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/adwaiti-04/oopsta2/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/adwaiti-04/oopsta2/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/adwaiti-04/oopsta2/tree/main/0066-plus-one/) | Easy |
@@ -22,6 +23,7 @@
 | [0005-longest-palindromic-substring](https://github.com/adwaiti-04/oopsta2/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/adwaiti-04/oopsta2/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/adwaiti-04/oopsta2/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/adwaiti-04/oopsta2/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adwaiti-04/oopsta2/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0027-remove-element](https://github.com/adwaiti-04/oopsta2/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/adwaiti-04/oopsta2/tree/main/0125-valid-palindrome/) | Easy |
@@ -111,6 +113,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/adwaiti-04/oopsta2/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/adwaiti-04/oopsta2/tree/main/0016-3sum-closest/) | Medium |
 | [0147-insertion-sort-list](https://github.com/adwaiti-04/oopsta2/tree/main/0147-insertion-sort-list/) | Medium |
 | [2191-sort-the-jumbled-numbers](https://github.com/adwaiti-04/oopsta2/tree/main/2191-sort-the-jumbled-numbers/) | Medium |
 ## Recursion
