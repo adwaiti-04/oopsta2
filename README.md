@@ -10,6 +10,7 @@
 | [0016-3sum-closest](https://github.com/adwaiti-04/oopsta2/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/adwaiti-04/oopsta2/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/adwaiti-04/oopsta2/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/adwaiti-04/oopsta2/tree/main/0036-valid-sudoku/) | Medium |
 | [0066-plus-one](https://github.com/adwaiti-04/oopsta2/tree/main/0066-plus-one/) | Easy |
 | [0079-word-search](https://github.com/adwaiti-04/oopsta2/tree/main/0079-word-search/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/adwaiti-04/oopsta2/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -133,6 +134,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/adwaiti-04/oopsta2/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/adwaiti-04/oopsta2/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adwaiti-04/oopsta2/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0036-valid-sudoku](https://github.com/adwaiti-04/oopsta2/tree/main/0036-valid-sudoku/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +190,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/adwaiti-04/oopsta2/tree/main/0036-valid-sudoku/) | Medium |
 | [0079-word-search](https://github.com/adwaiti-04/oopsta2/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/adwaiti-04/oopsta2/tree/main/0130-surrounded-regions/) | Medium |
 | [0733-flood-fill](https://github.com/adwaiti-04/oopsta2/tree/main/0733-flood-fill/) | Easy |
