@@ -53,6 +53,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adwaiti-04/oopsta2/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/adwaiti-04/oopsta2/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/adwaiti-04/oopsta2/tree/main/0022-generate-parentheses/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/adwaiti-04/oopsta2/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0058-length-of-last-word](https://github.com/adwaiti-04/oopsta2/tree/main/0058-length-of-last-word/) | Easy |
 | [0079-word-search](https://github.com/adwaiti-04/oopsta2/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/adwaiti-04/oopsta2/tree/main/0125-valid-palindrome/) | Easy |
@@ -134,11 +135,13 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/adwaiti-04/oopsta2/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/adwaiti-04/oopsta2/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adwaiti-04/oopsta2/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/adwaiti-04/oopsta2/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0036-valid-sudoku](https://github.com/adwaiti-04/oopsta2/tree/main/0036-valid-sudoku/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adwaiti-04/oopsta2/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/adwaiti-04/oopsta2/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
