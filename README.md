@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/adwaiti-04/oopsta2/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/adwaiti-04/oopsta2/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/adwaiti-04/oopsta2/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/adwaiti-04/oopsta2/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/adwaiti-04/oopsta2/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/adwaiti-04/oopsta2/tree/main/0036-valid-sudoku/) | Medium |
 | [0066-plus-one](https://github.com/adwaiti-04/oopsta2/tree/main/0066-plus-one/) | Easy |
@@ -27,6 +28,7 @@
 | [0016-3sum-closest](https://github.com/adwaiti-04/oopsta2/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adwaiti-04/oopsta2/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0027-remove-element](https://github.com/adwaiti-04/oopsta2/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/adwaiti-04/oopsta2/tree/main/0031-next-permutation/) | Medium |
 | [0125-valid-palindrome](https://github.com/adwaiti-04/oopsta2/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/adwaiti-04/oopsta2/tree/main/0344-reverse-string/) | Easy |
 ## Math
